@@ -1,0 +1,3 @@
+([('main_script',
+   '/Users/mariiakokina/Downloads/byggok_workflow/workflow/scripts/dist/main_script',
+   'EXECUTABLE')],)

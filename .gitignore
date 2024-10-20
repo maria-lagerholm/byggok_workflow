@@ -1,0 +1,15 @@
+   # Python cache files
+   __pycache__/
+   *.py[cod]
+
+   # Virtual environment
+   venv/
+   env/
+
+   # PyInstaller build files
+   build/
+   dist/
+
+   # Other unnecessary files
+   *.log
+   .DS_Store
