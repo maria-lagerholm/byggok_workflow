@@ -1,0 +1,12 @@
+# Ignore all JSON files
+*.json
+
+# Ignore all JPG and JPEG files
+*.jpg
+*.jpeg
+
+# Ignore all PDF files
+*.pdf
+
+# Ignore dir
+/scripts/venv
